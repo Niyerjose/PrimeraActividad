@@ -1,0 +1,13 @@
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.exe
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.deps.json
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.runtimeconfig.json
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.runtimeconfig.dev.json
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.dll
+D:\Documentos\NiyerJoñate\PrimerPunto\bin\Debug\netcoreapp3.1\PrimerPunto.pdb
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.csprojAssemblyReference.cache
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.AssemblyInfoInputs.cache
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.AssemblyInfo.cs
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.csproj.CoreCompileInputs.cache
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.dll
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.pdb
+D:\Documentos\NiyerJoñate\PrimerPunto\obj\Debug\netcoreapp3.1\PrimerPunto.genruntimeconfig.cache
